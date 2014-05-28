@@ -1,6 +1,6 @@
 {
   "name": "csvmapper",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A Node module to map a csv into an Object",
   "main": "lib/index.js",
   "scripts": {
